@@ -201,7 +201,6 @@ export function timeSinceConsumption(utcMilliseconds) {
   return result.trim(); // Remove any trailing space
 }
 
-// This function was added during recording
 export function calculateCoffeeStats(coffeeConsumptionHistory) {
   const dailyStats = {};
   let totalCoffees = 0;
