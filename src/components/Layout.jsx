@@ -26,6 +26,11 @@ export default function Layout(props) {
           FantaCSS
         </a>{" "}
         design library.
+        <br />
+        Check out the project on{" "}
+        <a target="_blank" href="">
+          GitHub!
+        </a>
       </p>
     </footer>
   );
