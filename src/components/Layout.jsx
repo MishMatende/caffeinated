@@ -43,7 +43,7 @@ export default function Layout(props) {
         design library.
         <br />
         Check out the project on{" "}
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/MishMatende/caffeinated">
           GitHub!
         </a>
       </p>
